@@ -1,0 +1,79 @@
+body{
+    background-image: url(070b392464742d11ec4fc4c02e908c56.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+ }
+ .logo {
+
+    font-size: 60px;
+    font-weight: bold;
+    color: azure;
+    font-family: 'impact', sans-serif;
+    text-shadow: 6px 6px 5px black;
+ }
+ .red{ 
+    color: rgb(145, 4, 4);
+ }
+ .hero {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height:60vh;
+    background-image: url();
+    background-size: cover;
+    background-position: center;
+
+ }
+ .bloco {
+   border-radius: 40px;
+    background-color: rgba(0, 0, 0, 0.822);
+    flex-direction: column;
+    width: 55%;
+    height: 100%;
+    padding-left: 50px; 
+   }
+
+.txt1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: blanchedalmond;
+   
+}
+    
+.lordes{
+    color: rgba(212, 40, 40, 0.87);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.bloco1{
+   background-color: rgba(14, 20, 34, 0.808);
+   border-radius: 40px;
+   flex-direction: column;
+   width: 500px;
+   padding: 30px;
+
+}
+.junto{
+   display: flex;
+   align-items: center;
+   gap: 40px;
+}
+.umbrella{
+   background-image: url();
+   background-position: center;
+   width: 100%;
+   height: 600px;
+   display: block;
+   object-fit: cover;
+   box-shadow: 90px 90px 90px  black ;
+   background-repeat: no-repeat;
+   border-radius: 50px;
+}
+.bloco4{
+   background-color: rgba(24, 21, 32, 0.884);
+   width: 50%;
+   height: 300px;
+   margin-left: 0%; 
+   display: block;
+   border-radius: 50px;
+   
+}
